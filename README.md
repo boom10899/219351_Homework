@@ -8,7 +8,7 @@ Contributer List (Homework V & VI)
 5510500140	Sippakorn Widsankun
 5610500079	Aikdanai Sidhikosol
 5610500311	Kanitkorn Sujautra 
-5610501008	Padungkiet Tamasee 
+5610501008	Padungkiat Tamasee 
 5610503841	Jitlada Supreeyaporn 
 5610503981	Wassapon Watanakeesuntorn
 
